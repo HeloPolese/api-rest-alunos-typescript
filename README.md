@@ -122,6 +122,7 @@ npm start
 | Método | Endpoint | Descrição |
 |---|---|---|
 | `GET` | `/alunos` | Lista todos os alunos |
+| `GET` | `/alunos/ativos` | Lista todos que possuem o atributo ativo igual à true |
 | `GET` | `/alunos/:id` | Busca aluno por ID |
 | `POST` | `/alunos` | Cadastra um aluno |
 | `PUT` | `/alunos/:id` | Substitui os dados do aluno |
