@@ -179,7 +179,7 @@ Acesse **Body → raw → JSON** e insira:
 {
   "nome": "Ana Silva",
   "curso": "Sistemas para Internet",
-  "matricula": 2026001,
+  "matricula": "2026001",
   "ano": 2026
 }
 ```
