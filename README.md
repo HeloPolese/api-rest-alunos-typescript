@@ -27,7 +27,7 @@ API REST para gerenciamento de alunos, desenvolvida com **Node.js, TypeScript e 
 | `id` | number | Identificador gerado pelo servidor |
 | `nome` | string | Nome do aluno |
 | `curso` | string | Curso do aluno |
-| `matricula` | number | Número de matrícula |
+| `matricula` | string | matrícula |
 | `ano` | number | Ano de ingresso na instituição |
 | `ativo` | boolean | Situação do aluno (padrão: `true`) |
 
